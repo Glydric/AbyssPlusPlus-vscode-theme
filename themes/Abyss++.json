@@ -220,7 +220,7 @@
       "scope": ["markup.heading", "markup.heading.setext"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#6688cc"
+        "foreground": "#569cd6"
       }
     }
   ],
