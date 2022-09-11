@@ -31,7 +31,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
-        "foreground": "#6040b4" 
+        "foreground": "#9cdcfe" 
       }
     },
     {
