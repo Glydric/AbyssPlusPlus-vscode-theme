@@ -1,59 +1,59 @@
 {
-	"name": "AbyssPlusPlus",
-	"displayName": "Abyss++",
-	"description": "Default Abyss theme with few tweaks here and there to suit my style",
-	"publisher": "PraveerSinghChauhan",
-	"author": {
-		"name": "Leonardo Migliorelli"
-	},
-	"version": "0.0.4",
-	"engines": {
-		"vscode": "^1.57.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme/issues"
-	},
-	"galleryBanner": {
-		"color": "#09131b",
-		"theme": "dark"
-	},
-	"icon": "Images/Abyss+Icon.png",
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"Abyss",
-		"Abyss+",
-		"AbyssPlus",
-		"Abyss++",
-		"AbyssPlusPlus",
-		"Dark Theme",
-		"Theme",
-		"Themes"
-	],
-	"badges": [],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Abyss++",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Abyss+-color-theme.json"
-			},
-			{
-				"label": "Abyss++ No_Italic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Abyss+No_Italic-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "ab6235d1-24f0-4774-ba2a-7e96d6ce3954",
-		"publisherId": "0acef9ce-345b-410f-8a84-753ca9cdfe93",
-		"publisherDisplayName": "Leonardo Migliorelli",
-		"installedTimestamp": 1623813574710
-	}
+  "name": "abyss-plus-plus",
+  "displayName": "Abyss++",
+  "description": "Default Abyss theme with few tweaks here and there to suit my style",
+  "publisher": "Leonardo Migliorelli",
+  "author": {
+    "name": "Leonardo Migliorelli"
+  },
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "Images/Abyss++Icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Abyss",
+    "Abyss+",
+    "Abyss++",
+    "AbyssPlus",
+    "AbyssPlusPlus",
+    "Dark Theme",
+    "Theme",
+    "Themes"
+  ],
+  "badges": [],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyss++ Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abyss++Italic.json"
+      },
+      {
+        "label": "Abyss++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abyss++.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "ab6235d1-24f0-4774-ba2a-7e96d6ce3954",
+    "publisherId": "0acef9ce-345b-410f-8a84-753ca9cdfe93",
+    "publisherDisplayName": "Leonardo Migliorelli",
+    "installedTimestamp": 1623813574710
+  }
 }
