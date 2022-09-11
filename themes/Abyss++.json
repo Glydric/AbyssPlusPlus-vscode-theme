@@ -15,9 +15,9 @@
     },
     {
       "name": "String",
-      "scope": "meta.preprocessor.string",
+      "scope": "string",
       "settings": {
-        "foreground": ""
+        "foreground": "#ce9178"
       }
     },
     {
