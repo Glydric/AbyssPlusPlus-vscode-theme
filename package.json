@@ -1,10 +1,10 @@
 {
-	"name": "AbyssPlus",
-	"displayName": "Abyss+",
-	"description": "So it is basically the Abyss theme with few tweaks here and there to suit my style",
+	"name": "AbyssPlusPlus",
+	"displayName": "Abyss++",
+	"description": "Default Abyss theme with few tweaks here and there to suit my style",
 	"publisher": "PraveerSinghChauhan",
 	"author": {
-		"name": "Praveer Singh Chauhan"
+		"name": "Leonardo Migliorelli"
 	},
 	"version": "0.0.4",
 	"engines": {
@@ -12,10 +12,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme"
+		"url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme/issues"
+		"url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme/issues"
 	},
 	"galleryBanner": {
 		"color": "#09131b",
@@ -29,6 +29,8 @@
 		"Abyss",
 		"Abyss+",
 		"AbyssPlus",
+		"Abyss++",
+		"AbyssPlusPlus",
 		"Dark Theme",
 		"Theme",
 		"Themes"
@@ -37,12 +39,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Abyss+",
+				"label": "Abyss++",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Abyss+-color-theme.json"
 			},
 			{
-				"label": "Abyss+No_Italic",
+				"label": "Abyss++ No_Italic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Abyss+No_Italic-color-theme.json"
 			}
