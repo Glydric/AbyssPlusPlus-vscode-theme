@@ -27,8 +27,7 @@
 			"name": "Comment",
 			"scope": "comment, comment.block.js",
 			"settings": {
-				"foreground": "#457dadd3",
-				"fontStyle": "italic"
+				"foreground": "#457dadd3"
 			}
 		},
 		{
@@ -39,7 +38,6 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#940ce9cc"
 			}
 		},
@@ -54,7 +52,6 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#ddbb88"
 			}
 		},
@@ -91,7 +88,6 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#9966b8"
 			}
 		},
@@ -118,7 +114,7 @@
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
+				"fontStyle": "underline",
 				"foreground": "#ddbb88"
 			}
 		},
@@ -126,7 +122,6 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#2277ff"
 			}
 		},
@@ -175,7 +170,6 @@
 				"meta.diff.header"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#E0EDDD"
 			}
 		},
@@ -212,8 +206,7 @@
 		{
 			"name": "Markup Styling",
 			"scope": [
-				"markup.bold",
-				"markup.italic"
+				"markup.bold"
 			],
 			"settings": {
 				"foreground": "#22aa44"
@@ -224,13 +217,6 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold"
-			}
-		},
-		{
-			"name": "Markup: Emphasis",
-			"scope": "markup.italic",
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -328,7 +314,7 @@
 		"list.hoverBackground": "#061940",
 		"list.inactiveSelectionBackground": "#152037",
 		"list.dropBackground": "#041D52",
-		"list.highlightForeground": "#0063a5",
+		"list.highlightForeground": "#0063a5"
 	},
 	"semanticHighlighting": true
 }
