@@ -80,7 +80,6 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#9966b8"
       }
     },
@@ -122,7 +121,6 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#2277ff"
       }
     },
@@ -165,7 +163,6 @@
       "name": "diff: header",
       "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#E0EDDD"
       }
     },
