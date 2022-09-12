@@ -4,13 +4,13 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     },
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     },
     {
