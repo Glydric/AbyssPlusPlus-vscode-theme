@@ -6,16 +6,16 @@
   "author": {
     "name": "Leonardo Migliorelli"
   },
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.57.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme"
+    "url": "https://github.com/Glydric22/AbyssPlusPlus-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme/issues"
+    "url": "https://github.com/Glydric22/AbyssPlusPlus-vscode-theme/issues"
   },
   "galleryBanner": {
     "color": "#09131b",
@@ -39,14 +39,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Abyss++ Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Abyss++Italic.json"
-      },
-      {
         "label": "Abyss++",
         "uiTheme": "vs-dark",
         "path": "./themes/Abyss++.json"
+      },
+      {
+        "label": "Abyss++ Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abyss++Italic.json"
       }
     ]
   },

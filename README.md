@@ -5,16 +5,16 @@ Thanks for checking out my VS Code theme. Currently there are only two options t
 - Abyss++
 - Abyss++ No_Italic
 
-![Abyss++ Theme Demo](https://raw.githubusercontent.com/leomiglio02/AbyssPlus-vscode-theme/main/Images/AbyssPlusPlus.gif)
+![Abyss++ Theme Demo](https://raw.githubusercontent.com/Glydric22/AbyssPlus-vscode-theme/main/Images/AbyssPlusPlus.gif)
 
-## Installation
+<!-- ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for Abyss++ Theme
 3. Click Install
 4. Click Reload to reload your editor
-5. Select the Manage Cog (bottom left) > Color Theme ＞ Abyss++ Theme
+5. Select the Manage Cog (bottom left) > Color Theme ＞ Abyss++ Theme -->
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/leomiglio02/AbyssPlusPlus-vscode-theme/issues).
+For any issues or suggestions, please use [GitHub issues](https://github.com/Glydric22/AbyssPlusPlus-vscode-theme/issues).
