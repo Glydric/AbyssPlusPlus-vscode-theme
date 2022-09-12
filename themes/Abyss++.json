@@ -31,6 +31,7 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -79,6 +80,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#9966b8"
       }
     },
@@ -105,7 +107,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "underline",
+        "fontStyle": "italic underline",
         "foreground": "#ddbb88"
       }
     },
@@ -120,6 +122,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#2277ff"
       }
     },
@@ -162,6 +165,7 @@
       "name": "diff: header",
       "scope": ["meta.diff", "meta.diff.header"],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#E0EDDD"
       }
     },
@@ -211,6 +215,7 @@
       "name": "Markup: Emphasis",
       "scope": "markup.italic",
       "settings": {
+        "fontStyle": "italic"
       }
     },
     {
