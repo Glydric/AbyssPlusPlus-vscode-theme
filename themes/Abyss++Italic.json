@@ -55,7 +55,7 @@
       "name": "Tag name & Keyword",
       "scope": ["entity.name.tag", "keyword"],
       "settings": {
-        "foreground": "#144dc7"
+        "foreground": "#00CCCC"
       }
     },
     {
