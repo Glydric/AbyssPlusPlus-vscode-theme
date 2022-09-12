@@ -14,6 +14,13 @@
       }
     },
     {
+      "name": "User-defined constant",
+      "scope": ["constant.language", "constant.character", "constant.other"],
+      "settings": {
+        "foreground": "#f280d0"
+      }
+    },
+    {
       "name": "String",
       "scope": "string",
       "settings": {
@@ -91,13 +98,6 @@
       "settings": {
         "fontStyle": "underline",
         "foreground": "#feb"
-      }
-    },
-    {
-      "name": "Built-in constant",
-      "scope": "constant.language",
-      "settings": {
-        "foreground": "#AE81FF"
       }
     },
     {
