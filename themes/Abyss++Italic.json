@@ -4,13 +4,13 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     },
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     },
     {
@@ -33,7 +33,7 @@
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#9cdcfe"
+        "foreground": "#18c"
       }
     },
     {
@@ -48,7 +48,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ddbb88"
+        "foreground": "#db8"
       }
     },
     {
@@ -84,7 +84,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#225588"
+        "foreground": "#258"
       }
     },
     {
@@ -104,7 +104,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ffeebb"
+        "foreground": "#feb"
       }
     },
     {
@@ -119,7 +119,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#ddbb88"
+        "foreground": "#db8"
       }
     },
     {
@@ -190,14 +190,14 @@
       "name": "Markup Quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#22aa44"
+        "foreground": "#2a4"
       }
     },
     {
       "name": "Markup Styling",
       "scope": ["markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#22aa44"
+        "foreground": "#2a4"
       }
     },
     {
@@ -226,7 +226,7 @@
       "scope": ["markup.heading", "markup.heading.setext"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     }
   ],
@@ -234,7 +234,7 @@
     "editor.background": "#000c18",
     "editorLineNumber.foreground": "#FFFFFF4d",
     "editorLineNumber.activeForeground": "#80a2c2",
-    "editor.foreground": "#6688cc",
+    "editor.foreground": "#9cdcfe",
     "editorCursor.foreground": "#ddbb88",
     "editorIndentGuide.background": "#002952",
     "editorIndentGuide.activeBackground": "#204972",
