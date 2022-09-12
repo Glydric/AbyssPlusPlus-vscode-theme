@@ -10,7 +10,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#27f"
+        "foreground": "#68c"
       }
     },
     {
@@ -33,7 +33,7 @@
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#18c"
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -55,7 +55,7 @@
       "name": "Tag name & Keyword",
       "scope": ["entity.name.tag", "keyword"],
       "settings": {
-        "foreground": "#00CCCC"
+        "foreground":"#18c"
       }
     },
     {
