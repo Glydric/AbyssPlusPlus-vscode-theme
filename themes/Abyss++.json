@@ -31,14 +31,14 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#C8B482"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#2859e2"
+        "foreground": "#9de"
       }
     },
     {
