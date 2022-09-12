@@ -93,7 +93,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ffeebb"
+        "foreground": "#feb"
       }
     },
     {
@@ -108,7 +108,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ddbb88"
+        "foreground": "#db8"
       }
     },
     {
