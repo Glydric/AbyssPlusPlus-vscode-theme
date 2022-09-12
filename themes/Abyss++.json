@@ -10,7 +10,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#68c"
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -52,10 +52,9 @@
       "name": "Tag name & Keyword",
       "scope": ["entity.name.tag", "keyword"],
       "settings": {
-        "foreground": "#144dc7"
+        "foreground": "#18c"
       }
     },
-
     {
       "name": "Library function",
       "scope": "support.function",
@@ -81,7 +80,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#225588"
+        "foreground": "#258"
       }
     },
     {
@@ -100,7 +99,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ffeebb"
+        "foreground": "#feb"
       }
     },
     {
@@ -115,7 +114,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ddbb88"
+        "foreground": "#db8"
       }
     },
     {
@@ -185,14 +184,14 @@
       "name": "Markup Quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#22aa44"
+        "foreground": "#2a4"
       }
     },
     {
       "name": "Markup Styling",
       "scope": ["markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#22aa44"
+        "foreground": "#2a4"
       }
     },
     {
@@ -206,7 +205,6 @@
       "name": "Markup: Emphasis",
       "scope": "markup.italic",
       "settings": {
-        "fontStyle": "italic"
       }
     },
     {
@@ -221,7 +219,7 @@
       "scope": ["markup.heading", "markup.heading.setext"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#6688cc"
+        "foreground": "#68c"
       }
     }
   ],
@@ -229,7 +227,7 @@
     "editor.background": "#000c18",
     "editorLineNumber.foreground": "#FFFFFF4d",
     "editorLineNumber.activeForeground": "#80a2c2",
-    "editor.foreground": "#6688cc",
+    "editor.foreground": "#9cdcfe",
     "editorCursor.foreground": "#ddbb88",
     "editorIndentGuide.background": "#002952",
     "editorIndentGuide.activeBackground": "#204972",
@@ -266,8 +264,8 @@
     "peekViewResult.background": "#060621",
     "peekViewResult.matchHighlightBackground": "#eeeeee44",
     "peekViewEditor.background": "#10192c",
-    "peekViewEditor.matchHighlightBackground": "#eeeeee33",
     "peekViewTitle.background": "#10192c",
+    "peekViewEditor.matchHighlightBackground": "#eeeeee33",
     "peekView.border": "#2b2b4a",
     "ports.iconRunningProcessForeground": "#80a2c2",
     "diffEditor.insertedTextBackground": "#31958A55",
