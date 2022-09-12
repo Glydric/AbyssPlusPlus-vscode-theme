@@ -2,13 +2,16 @@
   "name": "abyss-plus-plus",
   "displayName": "Abyss++",
   "description": "Default Abyss theme with few tweaks here and there to suit my style",
+  "categories": [
+    "Themes"
+  ],
   "publisher": "LeonardoMigliorelli",
   "author": {
     "name": "Leonardo Migliorelli"
   },
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.57.0"
+    "vscode": "^1.71.0"
   },
   "repository": {
     "type": "git",
@@ -22,9 +25,6 @@
     "theme": "dark"
   },
   "icon": "Images/Abyss++Icon.png",
-  "categories": [
-    "Themes"
-  ],
   "keywords": [
     "Abyss",
     "Abyss+",
