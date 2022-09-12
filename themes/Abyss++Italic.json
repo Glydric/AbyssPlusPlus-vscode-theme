@@ -40,7 +40,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#2859e2"
+        "foreground": "#9de"
       }
     },
     {
@@ -69,7 +69,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#1220ec"
+        "foreground": "#144dc7"
       }
     },
     {
@@ -112,6 +112,13 @@
       "settings": {
         "fontStyle": "italic underline",
         "foreground": "#ddbb88"
+      }
+    },
+    {
+      "name": "Function",
+      "scope": ["support.function", "entity.name.function"],
+      "settings": {
+        "foreground": "#C8B482"
       }
     },
     {

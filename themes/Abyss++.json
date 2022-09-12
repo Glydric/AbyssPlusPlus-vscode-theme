@@ -14,30 +14,10 @@
       }
     },
     {
-      "name": "User-defined constant",
-      "scope": ["constant.language", "constant.character", "constant.other"],
-      "settings": {
-        "foreground": "#f280d0"
-      }
-    },
-    {
       "name": "String",
       "scope": "string",
       "settings": {
         "foreground": "#ce9178"
-      }
-    },
-    {
-      "name": "Variable and parameter name",
-      "scope": [
-        "variable",
-        "meta.definition.variable.name",
-        "support.variable",
-        "entity.name.variable",
-        "constant.other.placeholder"
-      ],
-      "settings": {
-        "foreground": "#9CDCFE"
       }
     },
     {
@@ -48,10 +28,9 @@
       }
     },
     {
-      "name": "function",
-      "scope": ["support.function", "entity.name.function"],
+      "name": "Library class/type",
+      "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
-        "foreground": "#C8B482"
       }
     },
     {
@@ -65,7 +44,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#db8"
+        "foreground": "#ddbb88"
       }
     },
     {
@@ -78,7 +57,9 @@
     {
       "name": "Variable",
       "scope": "variable",
-      "settings": {}
+      "settings": {
+        "fontStyle": ""
+      }
     },
     {
       "name": "Keyword",
@@ -110,7 +91,14 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#feb"
+        "foreground": "#ffeebb"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "#AE81FF"
       }
     },
     {
@@ -118,7 +106,14 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#db8"
+        "foreground": "#ddbb88"
+      }
+    },
+    {
+      "name": "Function",
+      "scope": ["support.function", "entity.name.function"],
+      "settings": {
+        "foreground": "#C8B482"
       }
     },
     {
@@ -200,7 +195,7 @@
     },
     {
       "name": "Markup Styling",
-      "scope": ["markup.bold"],
+      "scope": ["markup.bold", "markup.italic"],
       "settings": {
         "foreground": "#22aa44"
       }
@@ -210,6 +205,12 @@
       "scope": "markup.bold",
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup: Emphasis",
+      "scope": "markup.italic",
+      "settings": {
       }
     },
     {
@@ -224,7 +225,7 @@
       "scope": ["markup.heading", "markup.heading.setext"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#569cd6"
+        "foreground": "#6688cc"
       }
     }
   ],
