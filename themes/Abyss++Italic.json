@@ -10,7 +10,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#68c"
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -55,7 +55,7 @@
       "name": "Tag name & Keyword",
       "scope": ["entity.name.tag", "keyword"],
       "settings": {
-        "foreground":"#18c"
+        "foreground": "#18c"
       }
     },
     {
