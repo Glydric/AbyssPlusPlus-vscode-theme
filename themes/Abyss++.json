@@ -50,9 +50,24 @@
     },
     {
       "name": "Tag name & Keyword",
-      "scope": ["entity.name.tag","keyword"],
+      "scope": ["entity.name.tag", "keyword"],
       "settings": {
         "foreground": "#144dc7"
+      }
+    },
+
+    {
+      "name": "Library function",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#27f"
+      }
+    },
+    {
+      "name": "Function argument",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "#27f"
       }
     },
     {
@@ -108,20 +123,6 @@
       "scope": ["support.function", "entity.name.function"],
       "settings": {
         "foreground": "#C8B482"
-      }
-    },
-    {
-      "name": "Function argument",
-      "scope": "variable.parameter",
-      "settings": {
-        "foreground": "#27f"
-      }
-    },
-    {
-      "name": "Library function",
-      "scope": "support.function",
-      "settings": {
-        "foreground": "#27f"
       }
     },
     {
