@@ -10,7 +10,7 @@
     {
       "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
-        "foreground": "#68c"
+        "foreground": "#27f"
       }
     },
     {
