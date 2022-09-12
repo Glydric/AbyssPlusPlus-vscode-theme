@@ -17,7 +17,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#22aa44"
+        "foreground": "#ce9178"
       }
     },
     {
@@ -33,7 +33,7 @@
       "scope": ["support.type", "support.class", "entity.name.function"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#940ce9cc"
+        "foreground": "#9cdcfe"
       }
     },
     {
@@ -76,7 +76,6 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "fontStyle": "",
         "foreground": "#225588"
       }
     },
@@ -127,7 +126,6 @@
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "fontStyle": "",
         "foreground": "#9966b8"
       }
     },
@@ -135,7 +133,6 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "fontStyle": "",
         "foreground": "#9966b8"
       }
     },
@@ -150,7 +147,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "fontStyle": "",
         "foreground": "#A22D44"
       }
     },
@@ -173,7 +169,6 @@
       "name": "diff: deleted",
       "scope": "markup.deleted",
       "settings": {
-        "fontStyle": "",
         "foreground": "#dc322f"
       }
     },
@@ -181,7 +176,6 @@
       "name": "diff: changed",
       "scope": "markup.changed",
       "settings": {
-        "fontStyle": "",
         "foreground": "#cb4b16"
       }
     },
@@ -224,7 +218,6 @@
       "name": "Markup Inline",
       "scope": "markup.inline.raw",
       "settings": {
-        "fontStyle": "",
         "foreground": "#9966b8"
       }
     },
