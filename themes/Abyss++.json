@@ -1,6 +1,7 @@
 {
   "name": "Abyss++",
   "type": "dark",
+  "include": "./dark_vs.json",
   "tokenColors": [
     {
       "settings": {
@@ -28,6 +29,19 @@
       }
     },
     {
+      "name": "Variable and parameter name",
+      "scope": [
+        "variable",
+        "meta.definition.variable.name",
+        "support.variable",
+        "entity.name.variable",
+        "constant.other.placeholder"
+      ],
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
       "name": "Comment",
       "scope": "comment, comment.block.js",
       "settings": {
@@ -35,8 +49,8 @@
       }
     },
     {
-      "name": "Library class/type",
-      "scope": ["support.type", "support.class", "entity.name.function"],
+      "name": "function",
+      "scope": ["support.function", "entity.name.function"],
       "settings": {
         "foreground": "#C8B482"
       }
