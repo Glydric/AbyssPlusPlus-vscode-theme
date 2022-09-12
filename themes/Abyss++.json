@@ -45,7 +45,7 @@
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ddbb88"
+        "foreground": "#db8"
       }
     },
     {
