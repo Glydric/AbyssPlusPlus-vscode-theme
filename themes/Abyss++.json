@@ -114,14 +114,14 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#2277ff"
+        "foreground": "#27f"
       }
     },
     {
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#9966b8"
+        "foreground": "#27f"
       }
     },
     {
