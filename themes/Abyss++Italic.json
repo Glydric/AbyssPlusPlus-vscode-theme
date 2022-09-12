@@ -1,6 +1,7 @@
 {
   "name": "Abyss++",
   "type": "dark",
+  "include": "./Abyss++.json",
   "tokenColors": [
     {
       "settings": {
