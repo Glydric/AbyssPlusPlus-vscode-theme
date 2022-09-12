@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] - 13-09-2022 (dd-mm-yyyy)
+
+- Modified various properties
+- Modified icon
+- Modified images
+- Modified name with Abyss++
+
 ## [0.0.1] - 15-06-2021 (dd-mm-yyyy)
 
 - Initial release
