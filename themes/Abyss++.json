@@ -1,7 +1,6 @@
 {
   "name": "Abyss++",
   "type": "dark",
-  "include": "./dark_vs.json",
   "tokenColors": [
     {
       "settings": {
