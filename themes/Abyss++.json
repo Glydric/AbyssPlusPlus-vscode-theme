@@ -49,8 +49,8 @@
       }
     },
     {
-      "name": "Tag name",
-      "scope": "entity.name.tag",
+      "name": "Tag name & Keyword",
+      "scope": ["entity.name.tag","keyword"],
       "settings": {
         "foreground": "#144dc7"
       }
@@ -60,13 +60,6 @@
       "scope": "variable",
       "settings": {
         "fontStyle": ""
-      }
-    },
-    {
-      "name": "Keyword",
-      "scope": "keyword",
-      "settings": {
-        "foreground": "#144dc7"
       }
     },
     {
