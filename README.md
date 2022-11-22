@@ -17,3 +17,6 @@ Thanks for checking out my VS Code theme. Currently there are only two options t
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/Glydric22/AbyssPlusPlus-vscode-theme/issues).
+
+
+Inspired by [Veerhan-glitch](https://github.com/Veerhan-glitch)'s [Abyss+](https://github.com/Veerhan-glitch/AbyssPlus-vscode-theme)
