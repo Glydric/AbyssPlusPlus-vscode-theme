@@ -10,7 +10,7 @@
     "name": "Leonardo Migliorelli"
   },
   "icon": "Images/Abyss++Icon.png",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -31,6 +31,7 @@
     "Abyss++",
     "AbyssPlus",
     "AbyssPlusPlus",
+    "Oled",
     "Dark Theme",
     "Dark Themes",
     "Theme",
@@ -39,7 +40,7 @@
     "Glydric",
     "Leonardo",
     "Migliorelli",
-    "LeonardoMigliorelli"
+    "Leonardo Migliorelli"
   ],
   "badges": [],
   "contributes": {
@@ -53,6 +54,11 @@
         "label": "Abyss++ Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/Abyss++Italic.json"
+      },
+      {
+        "label": "Abyss++ Oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abyss++Oled.json"
       }
     ]
   }
