@@ -10,7 +10,7 @@
     "name": "Leonardo Migliorelli"
   },
   "icon": "Images/Abyss++Icon.png",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.71.0"
   },

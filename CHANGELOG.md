@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [1.1.0] - 30-08-2023 (dd-mm-yyyy)
+## [2.0.0] - 30-08-2023 (dd-mm-yyyy)
 - Added Abyss++ Oled theme
 
 ## [1.0.0] - 13-09-2022 (dd-mm-yyyy)

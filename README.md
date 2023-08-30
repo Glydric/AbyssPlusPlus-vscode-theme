@@ -3,6 +3,7 @@
 Thanks for checking out my VS Code theme. Currently there are only two options to choose from (I might add more in the future):
 
 - Abyss++
+- Abyss++ Oled, perfect for OLED and miniled screens
 - Abyss++ No_Italic
 
 ![Abyss++ Theme Demo](Images/AbyssPlusPlus.gif)
