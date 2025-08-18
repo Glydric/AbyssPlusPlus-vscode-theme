@@ -1,0 +1,7 @@
+id = "abyss-plus-plus"
+name = "Abyss++"
+description = "Default Abyss theme with few tweaks here and there to suit my style"
+version = "2.0.0"
+schema_version = 1
+authors = ["Leonardo Migliorelli"]
+repository = "https://github.com/Glydric/AbyssPlusPlus-vscode-theme"
